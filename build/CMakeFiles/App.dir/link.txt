@@ -1,1 +1,0 @@
-/usr/bin/clang++ -Xlinker --dependency-file=CMakeFiles/App.dir/link.d CMakeFiles/App.dir/src/main.cpp.o CMakeFiles/App.dir/vendor/glad/src/gl.c.o -o App  vendor/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl
